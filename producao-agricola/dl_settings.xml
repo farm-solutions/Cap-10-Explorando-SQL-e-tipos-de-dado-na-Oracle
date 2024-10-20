@@ -391,7 +391,15 @@
 	<model_compare_storage_props_filter>
 	</model_compare_storage_props_filter>
 	<naming_options>
-		<model_options objectid="E91B2460-6011-5790-95D9-4D84BD65D0F1">
+		<model_options objectid="A367071F-11CC-99D8-3B52-8809A30AFC69">
+			<naming_option class_name="oracle.dbtools.crest.model.design.relational.Table" max_name_length="30" case_type="2" valid_characters="" all_valid="true" />
+			<naming_option class_name="oracle.dbtools.crest.model.design.relational.Column" max_name_length="30" case_type="2" valid_characters="" all_valid="true" />
+			<naming_option class_name="oracle.dbtools.crest.model.design.relational.TableView" max_name_length="30" case_type="2" valid_characters="" all_valid="true" />
+			<naming_option class_name="oracle.dbtools.crest.model.design.constraint.TableLevelConstraint" max_name_length="30" case_type="2" valid_characters="" all_valid="true" />
+			<naming_option class_name="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" max_name_length="30" case_type="2" valid_characters="" all_valid="true" />
+			<naming_option class_name="oracle.dbtools.crest.model.design.relational.Index" max_name_length="30" case_type="2" valid_characters="" all_valid="true" />
+		</model_options>
+		<model_options objectid="E89D48FD-C950-5837-AC8A-BCCE75BA17D2">
 			<naming_option class_name="oracle.dbtools.crest.model.design.relational.Table" max_name_length="128" case_type="2" valid_characters="" all_valid="true" />
 			<naming_option class_name="oracle.dbtools.crest.model.design.relational.Column" max_name_length="128" case_type="2" valid_characters="" all_valid="true" />
 			<naming_option class_name="oracle.dbtools.crest.model.design.relational.TableView" max_name_length="128" case_type="2" valid_characters="" all_valid="true" />
@@ -430,8 +438,17 @@
 				<schemas value="70"/>
 				<subviews value="70"/>
 				<arcs value="70"/>
+			</relational_model_0_estimates>
+			<relational_model_1_estimates>
+				<relational_model_name value="producao-agricola"/>
+				<tables value="70"/>
+				<views value="70"/>
+				<foreign_keys value="70"/>
+				<schemas value="70"/>
+				<subviews value="70"/>
+				<arcs value="70"/>
 				<physical_models_estimates>
-							<physical_model_E91B2460-6011-5790-95D9-4D84BD65D0F1_Oracle_Database_21c>
+							<physical_model_E89D48FD-C950-5837-AC8A-BCCE75BA17D2_Oracle_Database_21c>
 								<physical_model_name value="Oracle Database 21c"/>
 								<clusters value="70"/>
 								<contexts value="70"/>
@@ -458,9 +475,9 @@
 								<users value="70"/>
 								<views value="70"/>
 								<triggers value="70"/>
-							</physical_model_E91B2460-6011-5790-95D9-4D84BD65D0F1_Oracle_Database_21c>
+							</physical_model_E89D48FD-C950-5837-AC8A-BCCE75BA17D2_Oracle_Database_21c>
 				</physical_models_estimates>
-			</relational_model_0_estimates>
+			</relational_model_1_estimates>
 		</relational_model_estimates>
 	</design_estimates>
 </settings>

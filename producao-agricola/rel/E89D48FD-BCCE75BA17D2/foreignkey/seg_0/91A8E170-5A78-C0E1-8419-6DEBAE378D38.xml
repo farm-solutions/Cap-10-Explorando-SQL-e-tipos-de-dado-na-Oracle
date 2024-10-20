@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="91A8E170-5A78-C0E1-8419-6DEBAE378D38" containerWithKeyObject="76F752CB-8199-1592-E8F9-B0CD13AA22B1" localFKIndex="2B5AB3D9-035B-C9A7-BAC4-95B7F9876A6B" name="FK_PERMISSAO">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>7D7DE893-C803-838B-8A03-3ED5C4E1E6F0</importedID>
+<referredTableLongName>T_SPA_PERMISSAO</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>4B0241F9-8304-1D3E-0626-DE25B663220E</referredTableID>
+<keyObject>15613A2A-3B3A-28E0-FD2C-1B7139618EF5</keyObject>
+<referredKeyID>15613A2A-3B3A-28E0-FD2C-1B7139618EF5</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>CD_PERMISSAO</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

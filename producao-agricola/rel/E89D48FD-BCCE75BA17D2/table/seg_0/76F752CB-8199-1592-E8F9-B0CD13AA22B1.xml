@@ -1,0 +1,132 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="76F752CB-8199-1592-E8F9-B0CD13AA22B1" name="T_SPA_USUARIO_PERMISSAO">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>43283043-91D6-92F0-5F68-A0C95BCF922E</importedID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CD_USUARIO" id="A1E47919-B1CF-8321-5AA8-7D861609208E">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>1E148646-24E2-55E5-2E94-289A4E02CB0A</importedID>
+<use>0</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<domain>6B90781B-564B-94C3-0A57-0D0A02080094</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="F9795EEF-13D7-AAB0-AFAC-74E8436C1362" referredColumn="DA474A02-DE62-84DF-591A-B1027ECE740C"/>
+</associations>
+</Column>
+<Column name="CD_PERMISSAO" id="13CF846C-7881-0181-FF40-19728DD311E1">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>7B8C9428-8FA1-A948-3E53-30FCAAB289DB</importedID>
+<use>0</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<domain>6B90781B-564B-94C3-0A57-0D0A02080094</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="91A8E170-5A78-C0E1-8419-6DEBAE378D38" referredColumn="396D66F2-11F7-6169-AEA9-84784DF77F84"/>
+</associations>
+</Column>
+<Column name="DT_CRIACAO" id="8FB20D91-83F4-54A3-0BF3-797F59C1E94C">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>4A84D934-8C07-0A76-D90B-F55F97EA4F47</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT015</logicalDatatype>
+<domain>78B73887-6F6D-6754-DCAB-831444CDFD3C</domain>
+<defaultValue>current_timestamp</defaultValue>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_ALTERACAO" id="E182B5C7-74B4-FCE5-E49B-33B90B512C6A">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>1A03F091-983C-C134-4C7B-90A47A112ADB</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT015</logicalDatatype>
+<domain>78B73887-6F6D-6754-DCAB-831444CDFD3C</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NM_CRIADO_POR" id="726E8F19-0C10-EB7C-1938-F5888A2F676D">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>984A76ED-A242-D618-58DB-A2C62D1EEDE8</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>C632B947-99A6-EA97-2C04-7E59F527E26A</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NM_ALTERADO_POR" id="FA6F6032-8AFB-673E-9D38-C2B758B2D1D4">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>CA242D8E-48F9-3697-9406-D04A778EE203</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>C632B947-99A6-EA97-2C04-7E59F527E26A</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="85562782-A6B5-0413-2E6D-88608E9A9DA6" name="PK_USUARIO_PERMISSAO">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>C95E8076-77B9-173E-C2FA-DBE5019754A7</importedID>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A1E47919-B1CF-8321-5AA8-7D861609208E"/>
+<colUsage columnID="13CF846C-7881-0181-FF40-19728DD311E1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="2B5AB3D9-035B-C9A7-BAC4-95B7F9876A6B" name="FK_PERMISSAO">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="13CF846C-7881-0181-FF40-19728DD311E1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="5C24DB27-107E-E3A0-11B9-7EC8F54CF424" name="FK_USUARIO">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A1E47919-B1CF-8321-5AA8-7D861609208E"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="5DCA3FD4-8198-F00D-0C3C-3834D4623796" containerWithKeyObject="B8E2C44D-0FD6-9CD6-CCB9-756DB6620A77" localFKIndex="E69E1D2C-BDEC-F44C-A85B-6D48293B7647" name="T_SPA_PRODUCAO_T_CULTURA_FK">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>9A9B13CB-E8FF-AAC5-5182-FF7CCADBF923</importedID>
+<referredTableLongName>T_SPA_CULTURA</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>5160BE79-D365-56C6-BE5E-E53F2F6AD137</referredTableID>
+<keyObject>F446BFBD-31CF-DBC0-E59F-E135F124E5F2</keyObject>
+<referredKeyID>F446BFBD-31CF-DBC0-E59F-E135F124E5F2</referredKeyID>
+<mandatory>false</mandatory>
+<refColNames>CD_CULTURA</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

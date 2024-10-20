@@ -1,0 +1,130 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="5160BE79-D365-56C6-BE5E-E53F2F6AD137" name="T_SPA_CULTURA">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>525BCEB2-2F91-2EE9-3D32-0F9DD5FEEB87</importedID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CD_CULTURA" id="4E98C4B3-D80F-C381-9DBF-EB8F4CAF3A6E">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<commentInRDBMS><![CDATA[adicionando git]]></commentInRDBMS>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>DB309E61-48CB-12D7-DD61-0A528A0E918A</importedID>
+<use>0</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<domain>2DF19878-91DE-DF8A-626D-D9882C7D4167</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NM_CULTURA" id="9C3CD36C-8B1F-AB72-6752-2E0609B4D1A6">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>93A2D43D-724C-7351-A1A2-B1AAC865F271</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>AAE34E96-42AC-1855-7076-69118F6E156F</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_CRIADO_EM" id="8CCA4787-633A-201A-BC3D-FE7F3CD08A7B">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>8CD48805-1338-0D15-6D1C-DD99C8533A13</importedID>
+<use>0</use>
+<logicalDatatype>LOGDT015</logicalDatatype>
+<domain>78B73887-6F6D-6754-DCAB-831444CDFD3C</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_ALTERADO_EM" id="3FC2E886-6485-59DF-784E-05CB62F6038F">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>6BFD0C1F-8349-CED3-FA62-301901EA155C</importedID>
+<use>0</use>
+<logicalDatatype>LOGDT015</logicalDatatype>
+<domain>78B73887-6F6D-6754-DCAB-831444CDFD3C</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CD_CRIADO_POR" id="2DE5C4E4-159C-D34D-B70F-3D7385DE577E">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>AD3BFBB3-2094-8B7D-0DE0-3CA51EDB2537</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<domain>6B90781B-564B-94C3-0A57-0D0A02080094</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="058994FD-C6DE-BBDB-7706-018B5CFF9D9A" referredColumn="DA474A02-DE62-84DF-591A-B1027ECE740C"/>
+</associations>
+</Column>
+<Column name="CD_ALTERADO_POR" id="DFA6755F-70D7-3199-1C42-F90DC91E1DC1">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>0A5D48C1-1AD2-4C43-C8D8-E25590AF0EFE</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<domain>6B90781B-564B-94C3-0A57-0D0A02080094</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="9990A823-8DD8-5749-9F32-DB3AC2F12907" referredColumn="DA474A02-DE62-84DF-591A-B1027ECE740C"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="F446BFBD-31CF-DBC0-E59F-E135F124E5F2" name="T_SPA_CULTURA_PK">
+<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>DA84EEF8-F3EE-320E-22C3-57EE957D4CEE</importedID>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="4E98C4B3-D80F-C381-9DBF-EB8F4CAF3A6E"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="542377FC-AE9B-2736-AF45-BE5D72900306" name="T_SPA_CULTURA_T_USUARIO_ALTERADO_FK">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="DFA6755F-70D7-3199-1C42-F90DC91E1DC1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="4231AF35-F225-99EE-C587-A0639FAED2DB" name="T_SPA_CULTURA_T_USUARIO_CRIADO_FK">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:15 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2DE5C4E4-159C-D34D-B70F-3D7385DE577E"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="producao-agricola" id="E89D48FD-C950-5837-AC8A-BCCE75BA17D2" mainViewID="EDCF93F8-CB6A-72A7-66D1-F8B6974CC9A2">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 16:19:08 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+<selectedRDBMSSite>01F6E6D1-21D0-CFBD-ABDD-3988D1813575</selectedRDBMSSite>
+<importDDLFileStamps>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>producao-agricola.sql</fileName>
+<pathName>/Users/badeca/jobs/faculdade/fase-3-cap-10</pathName>
+<dbType>17</dbType>
+</importDDLFileStamp>
+</importDDLFileStamps>
+</relationalModel>
