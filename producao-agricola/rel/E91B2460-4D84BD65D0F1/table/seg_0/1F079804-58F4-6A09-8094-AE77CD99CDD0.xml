@@ -35,6 +35,26 @@
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
+<Column name="Criado_Em" id="47FF098C-6DAF-D6D4-02C3-96605E7AFADA">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 14:59:50 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT015</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Alterado_Por" id="4B9839F7-6357-B5C3-F37C-F7B5C1AE8EBC">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 14:59:50 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT015</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
 </columns>
 <indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
 <ind_PK_UK id="642C31DD-80A4-6256-8273-E64D86AB24E3" name="T_Cultura_PK">
