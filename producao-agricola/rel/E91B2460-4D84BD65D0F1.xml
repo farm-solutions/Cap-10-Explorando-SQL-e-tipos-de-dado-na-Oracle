@@ -3,12 +3,27 @@
 <createdBy>badeca</createdBy>
 <createdTime>2024-10-20 14:49:21 UTC</createdTime>
 <ownerDesignName>producao-agricola</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
+<shouldBeOpen>true</shouldBeOpen>
 <selectedRDBMSSite>01F6E6D1-21D0-CFBD-ABDD-3988D1813575</selectedRDBMSSite>
 <importDDLFileStamps>
 <importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
 <fileName>Modelo_Logico_Producao_Agricola.sql</fileName>
 <pathName>/Users/badeca/Downloads</pathName>
+<dbType>17</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>users.sql</fileName>
+<pathName>/Users/badeca/jobs/faculdade/fase-3-cap-10</pathName>
+<dbType>17</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>producao.sql</fileName>
+<pathName>/Users/badeca/jobs/faculdade/fase-3-cap-10</pathName>
+<dbType>17</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>producao-agricola.sql</fileName>
+<pathName>/Users/badeca/jobs/faculdade/fase-3-cap-10</pathName>
 <dbType>17</dbType>
 </importDDLFileStamp>
 </importDDLFileStamps>

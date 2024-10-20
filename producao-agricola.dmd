@@ -9,5 +9,14 @@
 <designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="475DCF04-5BE9-6F62-16DF-90EBB0B4A990">
 <designStoragePath>/Modelo_Logico_Producao_Agricola</designStoragePath>
 </designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="CE526F49-7BBE-860D-5E46-19E49C86C7C5">
+<designStoragePath>/Users</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="1A385FA2-C530-E0D8-A5A5-343FA37C65EB">
+<designStoragePath>/producao</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="E362EDC0-EE38-D678-57FB-5A937C6C6334">
+<designStoragePath>/producao-agricola</designStoragePath>
+</designDescr>
 </usedDesignStorageDescriptors>
 </OSDM_Design>

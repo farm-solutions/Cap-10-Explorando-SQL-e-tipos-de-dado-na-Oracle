@@ -1,0 +1,76 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev20c class="oracle.dbtools.crest.model.design.storage.oracle.v20c.TableProxyOraclev20c" name="t_permissao" directorySegmentName="seg_0" id="E8286009-BDF8-1AD7-C7B2-453FD1E8BDAC">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<nameChanged>true</nameChanged>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="ds_permissao" id="18C1E2CB-40B0-8A4E-ECF9-B975B412C10D">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<nameChanged>true</nameChanged>
+</ColumnProxy>
+<ColumnProxy name="nm_permissao" id="3BF9FA34-6520-967F-3CAE-C6CD70BBADFD">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<nameChanged>true</nameChanged>
+</ColumnProxy>
+<ColumnProxy name="nm_alterado_por" id="5D6F6115-F876-2C0B-32E0-747F617DAE68">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<nameChanged>true</nameChanged>
+</ColumnProxy>
+<ColumnProxy name="dt_alteracao" id="8F6E6A54-8CBE-1038-B6D5-9FBDDAB8FD1D">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<nameChanged>true</nameChanged>
+</ColumnProxy>
+<ColumnProxy name="cd_permissao" id="C8A2EE3F-C698-BD4E-B0B7-F540186B0326">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<nameChanged>true</nameChanged>
+<autoIncrementDDL>IDENTITY_CLAUSE</autoIncrementDDL>
+</ColumnProxy>
+<ColumnProxy name="dt_criacao" id="CCA17847-1A6D-509E-7810-D51169E1DD11">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<nameChanged>true</nameChanged>
+<defaultValue>current_timestamp</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="nm_criado_por" id="E8BDA290-4DA0-952F-F42F-A88AEBDDC232">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<nameChanged>true</nameChanged>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="t_permissao_pk" id="74C5A8B1-B80F-3900-AE8E-8ED74D30AFAF">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<nameChanged>true</nameChanged>
+<indexSort>SORTED</indexSort>
+</PrimaryKey>
+</primaryKeys>
+<uniqueKeys>
+<UniqueKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.UniqueOraclev10g" name="index_1" id="17D57B89-3227-6D05-4E6A-E3169F6EA5F0">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<nameChanged>true</nameChanged>
+<indexSort>SORTED</indexSort>
+</UniqueKey>
+</uniqueKeys>
+</TableProxyOraclev20c>

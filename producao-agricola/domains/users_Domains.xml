@@ -1,0 +1,60 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DomainFile class="oracle.dbtools.crest.model.design.DomainFileWrapper" fileName="users_Domains">
+<domains>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="NUMERIC_0_0_0" id="6B90781B-564B-94C3-0A57-0D0A02080094">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<fileName>users_Domains</fileName>
+<logicalDatatype>LOGDT019</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="CLOB_0_0_0" id="70A6C81D-E6DD-3A1C-57A5-7BA33DCD529E">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<fileName>users_Domains</fileName>
+<logicalDatatype>LOGDT028</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="Timestamp_6_0_0" id="78B73887-6F6D-6754-DCAB-831444CDFD3C">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<dataTypePrecision>6</dataTypePrecision>
+<fileName>users_Domains</fileName>
+<logicalDatatype>LOGDT015</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="BLOB_0_0_0" id="822B42D4-CA4A-1265-D459-1E948201B237">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<fileName>users_Domains</fileName>
+<logicalDatatype>LOGDT029</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_50 CHAR" id="C632B947-99A6-EA97-2C04-7E59F527E26A">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<dataTypePrecision>0</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<dataTypeSize>50 CHAR</dataTypeSize>
+<fileName>users_Domains</fileName>
+<logicalDatatype>LOGDT024</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_100 CHAR" id="E32A65D3-2FF7-B6BC-DF2A-3CC585599232">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 15:23:10 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<dataTypePrecision>0</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<dataTypeSize>100 CHAR</dataTypeSize>
+<fileName>users_Domains</fileName>
+<logicalDatatype>LOGDT024</logicalDatatype>
+</Domain>
+</domains>
+</DomainFile>
