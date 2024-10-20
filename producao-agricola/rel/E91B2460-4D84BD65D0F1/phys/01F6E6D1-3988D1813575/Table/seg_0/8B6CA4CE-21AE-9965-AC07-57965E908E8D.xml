@@ -1,0 +1,31 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev20c class="oracle.dbtools.crest.model.design.storage.oracle.v20c.TableProxyOraclev20c" name="T_Estado" directorySegmentName="seg_0" id="8B6CA4CE-21AE-9965-AC07-57965E908E8D">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 14:51:39 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="CD_Estado" id="2944FCD1-AE2C-43E4-6E93-B9FD712ECAE5">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 14:51:39 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="NM_Estado" id="2A893DC2-D334-9872-06E1-9636618C01D7">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 14:51:39 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="T_Estado_PK" id="21268BF8-CCA9-85B1-FD48-E63BC5D64F2C">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 14:51:39 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<indexSort>SORTED</indexSort>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev20c>

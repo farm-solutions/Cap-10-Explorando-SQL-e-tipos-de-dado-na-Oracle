@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="8EB84F3A-9B7D-C6A4-1797-B12DD4755372" containerWithKeyObject="C423B36B-9CFA-4EF5-4200-7CE2FD2BDCF4" localFKIndex="A7E310C9-F0C2-B97C-9599-2C8511672192" name="T_Produtores_T_Estado_FK">
+<sourceDDLFile>Modelo_Logico_Producao_Agricola.sql</sourceDDLFile>
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 14:51:39 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<importedID>E932C823-CD94-9985-3D05-53095FA0BE29</importedID>
+<referredTableLongName>T_Estado</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>8B6CA4CE-21AE-9965-AC07-57965E908E8D</referredTableID>
+<keyObject>21268BF8-CCA9-85B1-FD48-E63BC5D64F2C</keyObject>
+<referredKeyID>21268BF8-CCA9-85B1-FD48-E63BC5D64F2C</referredKeyID>
+<mandatory>false</mandatory>
+<refColNames>CD_Estado</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

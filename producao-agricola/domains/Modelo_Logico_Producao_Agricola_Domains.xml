@@ -1,0 +1,43 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DomainFile class="oracle.dbtools.crest.model.design.DomainFileWrapper" fileName="Modelo_Logico_Producao_Agricola_Domains">
+<domains>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="FLOAT_0_0_0" id="0DA78975-363B-CCEE-73A0-E6822F1EE334">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 14:51:39 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<fileName>Modelo_Logico_Producao_Agricola_Domains</fileName>
+<logicalDatatype>LOGDT021</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_50" id="2C0F0DFE-2A5B-719F-D07B-519EFD511217">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 14:51:39 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<dataTypePrecision>0</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<dataTypeSize>50</dataTypeSize>
+<fileName>Modelo_Logico_Producao_Agricola_Domains</fileName>
+<logicalDatatype>LOGDT024</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="Integer_0_0_0" id="2DF19878-91DE-DF8A-626D-D9882C7D4167">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 14:51:39 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<fileName>Modelo_Logico_Producao_Agricola_Domains</fileName>
+<logicalDatatype>LOGDT011</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_100" id="AAE34E96-42AC-1855-7076-69118F6E156F">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 14:51:39 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<dataTypePrecision>0</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<dataTypeSize>100</dataTypeSize>
+<fileName>Modelo_Logico_Producao_Agricola_Domains</fileName>
+<logicalDatatype>LOGDT024</logicalDatatype>
+</Domain>
+</domains>
+</DomainFile>

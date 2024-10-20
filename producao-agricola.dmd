@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="producao-agricola" id="991B1A00-6D6B-8F90-5F55-3C69626D1D9A" version="3.5">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 14:49:21 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>991B1A00-6D6B-8F90-5F55-3C69626D1D9A</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="475DCF04-5BE9-6F62-16DF-90EBB0B4A990">
+<designStoragePath>/Modelo_Logico_Producao_Agricola</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>

@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="Relational_1" id="E91B2460-6011-5790-95D9-4D84BD65D0F1" mainViewID="F86E0F72-81D1-A872-4EC8-F6050773996C">
+<createdBy>badeca</createdBy>
+<createdTime>2024-10-20 14:49:21 UTC</createdTime>
+<ownerDesignName>producao-agricola</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+<selectedRDBMSSite>01F6E6D1-21D0-CFBD-ABDD-3988D1813575</selectedRDBMSSite>
+<importDDLFileStamps>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>Modelo_Logico_Producao_Agricola.sql</fileName>
+<pathName>/Users/badeca/Downloads</pathName>
+<dbType>17</dbType>
+</importDDLFileStamp>
+</importDDLFileStamps>
+</relationalModel>
