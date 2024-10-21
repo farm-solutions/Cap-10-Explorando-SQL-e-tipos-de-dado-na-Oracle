@@ -16,9 +16,11 @@
 <ownerDesignName>producao-agricola</ownerDesignName>
 <importedID>6377DF22-D165-82E1-635C-BED5C61CA9CD</importedID>
 <use>0</use>
-<logicalDatatype>LOGDT011</logicalDatatype>
-<domain>2DF19878-91DE-DF8A-626D-D9882C7D4167</domain>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<domain>6B90781B-564B-94C3-0A57-0D0A02080094</domain>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<identityColumn>true</identityColumn>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="NM_ESTADO" id="0289DB6A-3046-F546-A639-DF61C15A6FBD">

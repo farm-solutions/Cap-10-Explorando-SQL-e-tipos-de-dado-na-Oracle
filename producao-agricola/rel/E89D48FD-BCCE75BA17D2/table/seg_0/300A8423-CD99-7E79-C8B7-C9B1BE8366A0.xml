@@ -16,9 +16,11 @@
 <ownerDesignName>producao-agricola</ownerDesignName>
 <importedID>A8C6C2BF-6DE4-B63A-4FBE-179BC9DD6644</importedID>
 <use>0</use>
-<logicalDatatype>LOGDT011</logicalDatatype>
-<domain>2DF19878-91DE-DF8A-626D-D9882C7D4167</domain>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<domain>6B90781B-564B-94C3-0A57-0D0A02080094</domain>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<identityColumn>true</identityColumn>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="CD_CULTURA" id="D18ED2D1-41FF-3096-3C83-189FED0AF8D5">
@@ -29,8 +31,8 @@
 <importedID>B34FD3F6-B79A-51AE-6E88-C007FB4DE25F</importedID>
 <nullsAllowed>true</nullsAllowed>
 <use>0</use>
-<logicalDatatype>LOGDT011</logicalDatatype>
-<domain>2DF19878-91DE-DF8A-626D-D9882C7D4167</domain>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<domain>6B90781B-564B-94C3-0A57-0D0A02080094</domain>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 <associations>
@@ -45,8 +47,8 @@
 <importedID>F5926FD6-F922-BD5B-C72C-762BB9863D0D</importedID>
 <nullsAllowed>true</nullsAllowed>
 <use>0</use>
-<logicalDatatype>LOGDT011</logicalDatatype>
-<domain>2DF19878-91DE-DF8A-626D-D9882C7D4167</domain>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<domain>6B90781B-564B-94C3-0A57-0D0A02080094</domain>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 <associations>

@@ -19,6 +19,8 @@
 <logicalDatatype>LOGDT019</logicalDatatype>
 <domain>6B90781B-564B-94C3-0A57-0D0A02080094</domain>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<identityColumn>true</identityColumn>
 <autoIncrementCycle>false</autoIncrementCycle>
 <associations>
 <colAssociation fkAssociation="F9795EEF-13D7-AAB0-AFAC-74E8436C1362" referredColumn="DA474A02-DE62-84DF-591A-B1027ECE740C"/>
