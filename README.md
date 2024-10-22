@@ -79,6 +79,7 @@ Para utilizar o projeto e importar os arquivos de modelagem, siga as instruçõe
 2. No menu superior, selecione File > Import > Data Modeler Design.
 3. Navegue até o diretório do projeto clonado e selecione o arquivo de modelo desejado (`producao-agricola.dmd`).
 4. Clique em Open para carregar o modelo no Data Modeler.
+Ou simplesmente abra o arquivo `producao-agricola.dmd` no Oracle SQL Developer Data Modeler.
 
 ### Criando o Banco de Dados
 
