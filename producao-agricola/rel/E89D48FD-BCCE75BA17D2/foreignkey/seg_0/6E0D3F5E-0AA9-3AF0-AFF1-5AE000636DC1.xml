@@ -1,6 +1,6 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="6E0D3F5E-0AA9-3AF0-AFF1-5AE000636DC1" containerWithKeyObject="300A8423-CD99-7E79-C8B7-C9B1BE8366A0" localFKIndex="FA338360-05ED-DB84-0A62-D424EEA1D044" name="T_SPA_PRODUTORES_T_USUARIO_CRIADO_FK">
-<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<sourceDDLFile>create-tables.sql</sourceDDLFile>
 <createdBy>badeca</createdBy>
 <createdTime>2024-10-20 16:19:15 UTC</createdTime>
 <ownerDesignName>producao-agricola</ownerDesignName>
