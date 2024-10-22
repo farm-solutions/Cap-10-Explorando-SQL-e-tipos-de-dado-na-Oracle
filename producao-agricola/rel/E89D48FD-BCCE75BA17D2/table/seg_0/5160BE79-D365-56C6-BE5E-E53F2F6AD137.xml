@@ -1,6 +1,6 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="5160BE79-D365-56C6-BE5E-E53F2F6AD137" name="T_SPA_CULTURA">
-<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<sourceDDLFile>create-tables.sql</sourceDDLFile>
 <createdBy>badeca</createdBy>
 <createdTime>2024-10-20 16:19:15 UTC</createdTime>
 <ownerDesignName>producao-agricola</ownerDesignName>
@@ -10,7 +10,7 @@
 <parsed>true</parsed>
 <columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
 <Column name="CD_CULTURA" id="4E98C4B3-D80F-C381-9DBF-EB8F4CAF3A6E">
-<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<sourceDDLFile>create-tables.sql</sourceDDLFile>
 <createdBy>badeca</createdBy>
 <createdTime>2024-10-20 16:19:15 UTC</createdTime>
 <commentInRDBMS><![CDATA[adicionando git]]></commentInRDBMS>
@@ -25,7 +25,7 @@
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="NM_CULTURA" id="9C3CD36C-8B1F-AB72-6752-2E0609B4D1A6">
-<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<sourceDDLFile>create-tables.sql</sourceDDLFile>
 <createdBy>badeca</createdBy>
 <createdTime>2024-10-20 16:19:15 UTC</createdTime>
 <ownerDesignName>producao-agricola</ownerDesignName>
@@ -38,7 +38,7 @@
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="DT_CRIADO_EM" id="8CCA4787-633A-201A-BC3D-FE7F3CD08A7B">
-<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<sourceDDLFile>create-tables.sql</sourceDDLFile>
 <createdBy>badeca</createdBy>
 <createdTime>2024-10-20 16:19:15 UTC</createdTime>
 <ownerDesignName>producao-agricola</ownerDesignName>
@@ -50,7 +50,7 @@
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="DT_ALTERADO_EM" id="3FC2E886-6485-59DF-784E-05CB62F6038F">
-<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<sourceDDLFile>create-tables.sql</sourceDDLFile>
 <createdBy>badeca</createdBy>
 <createdTime>2024-10-20 16:19:15 UTC</createdTime>
 <ownerDesignName>producao-agricola</ownerDesignName>
@@ -62,7 +62,7 @@
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="CD_CRIADO_POR" id="2DE5C4E4-159C-D34D-B70F-3D7385DE577E">
-<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<sourceDDLFile>create-tables.sql</sourceDDLFile>
 <createdBy>badeca</createdBy>
 <createdTime>2024-10-20 16:19:15 UTC</createdTime>
 <ownerDesignName>producao-agricola</ownerDesignName>
@@ -78,7 +78,7 @@
 </associations>
 </Column>
 <Column name="CD_ALTERADO_POR" id="DFA6755F-70D7-3199-1C42-F90DC91E1DC1">
-<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<sourceDDLFile>create-tables.sql</sourceDDLFile>
 <createdBy>badeca</createdBy>
 <createdTime>2024-10-20 16:19:15 UTC</createdTime>
 <ownerDesignName>producao-agricola</ownerDesignName>
@@ -96,7 +96,7 @@
 </columns>
 <indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
 <ind_PK_UK id="F446BFBD-31CF-DBC0-E59F-E135F124E5F2" name="T_SPA_CULTURA_PK">
-<sourceDDLFile>producao-agricola.sql</sourceDDLFile>
+<sourceDDLFile>create-tables.sql</sourceDDLFile>
 <createdBy>badeca</createdBy>
 <createdTime>2024-10-20 16:19:15 UTC</createdTime>
 <ownerDesignName>producao-agricola</ownerDesignName>

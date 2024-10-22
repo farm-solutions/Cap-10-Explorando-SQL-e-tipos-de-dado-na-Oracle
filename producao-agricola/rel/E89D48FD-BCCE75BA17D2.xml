@@ -7,7 +7,7 @@
 <selectedRDBMSSite>01F6E6D1-21D0-CFBD-ABDD-3988D1813575</selectedRDBMSSite>
 <importDDLFileStamps>
 <importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
-<fileName>producao-agricola.sql</fileName>
+<fileName>create-tables.sql</fileName>
 <pathName>/Users/badeca/jobs/faculdade/fase-3-cap-10</pathName>
 <dbType>17</dbType>
 </importDDLFileStamp>
