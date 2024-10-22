@@ -48,7 +48,7 @@ O diagrama de entidade-relacionamento (DER) do SPA foi desenvolvido para identif
 Cada entidade foi desenhada para refletir a estrutura necessária para suportar os dados da produção agrícola de maneira normalizada e eficiente.
 
 <p align="center">
-<a href= "https://www.fiap.com.br/"><img src="assets/producao-agricola.png" alt="Diagrama do modelo de dados" border="0" width=40% height=40%></a>
+<a href= "assets/producao-agricola.png"><img src="assets/producao-agricola.png" alt="Diagrama do modelo de dados" border="0" width=40% height=40%></a>
 </p>
 
 ## Fonte de pesquisa.
